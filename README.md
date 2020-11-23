@@ -21,7 +21,7 @@
 <ul>
   <li>src
     <ul>
-      <li>mergesort
+      <li>cocktailsort
         <ul>
           <li>CocktailSortProcess.java</li>
         </ul>
